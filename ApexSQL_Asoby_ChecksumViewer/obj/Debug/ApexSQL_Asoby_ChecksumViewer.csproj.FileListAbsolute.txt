@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\bin\Debug\ApexSQL_Asoby_ChecksumViewer.exe.config
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\bin\Debug\ApexSQL_Asoby_ChecksumViewer.exe
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\bin\Debug\ApexSQL_Asoby_ChecksumViewer.pdb
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.exe
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.pdb
+C:\Users\Korisnik\source\repos\ApexSQL_Asoby_ChecksumViewer\ApexSQL_Asoby_ChecksumViewer\obj\Debug\ApexSQL_Asoby_ChecksumViewer.Main.resources
